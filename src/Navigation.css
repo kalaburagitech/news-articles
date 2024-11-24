@@ -1,0 +1,33 @@
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.logo-article {
+  color: #8a2be2;
+}
+
+.logo-search {
+  color: #ffffff;
+}
+
+.preferences-button {
+  background-color: #333333;
+  color: #ffffff;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.preferences-button:hover {
+  background-color: #444444;
+}
